@@ -213,5 +213,8 @@ fn blank_net(structure: Vec<usize>) -> Net {
     return Net {layer_vec: layer_vec, structure: structure};
 }
 
+
+
 fn main() {
+
 }
